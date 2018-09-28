@@ -1,0 +1,26 @@
+* {
+    font-family: jokerman; }
+ul {
+    color: navy;}
+a {
+    color: purple;}
+p {
+    font-family: times; font-size: 18px;}
+.big {
+    font-size: 2em;}
+.city {
+    font-size: medium;}
+h4 {
+    font-size: small;}
+p.dotted {
+    color: black;}
+.heading {
+    color: red; font-size: 35px; border-style: solid; text-align: center;}
+.subheading {
+    color: red; font-size: 20px; border-style: dotted; text-align: center;}
+.subheading2 {
+    text-align: center; border-style: groove;}
+.date {
+    color: darkblue; font-size: 15px;}
+.insignia {
+    text-align: center;}
